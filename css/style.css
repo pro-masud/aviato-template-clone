@@ -1056,4 +1056,45 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 
 
 
-/*  */
+/* footer section start now */
+  .footer{
+    background-color: #f7f8f9;
+    padding: 50px 0;
+  }
+
+  .social-media li{
+    display: inline-block;
+    margin: 0 5px;
+  }
+
+  .social-media li a{
+    padding: 8px 10px;
+  }
+
+  .social-media li a i {
+    font-size: 20px;
+    color: #555;
+  }
+
+
+  .footer .footer-menu{
+    margin-top: 30px;
+  }
+
+  .footer .footer-menu li{
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  .footer .footer-menu li a{
+    color: #333;
+    font-size: 12px;
+  }
+
+  .footer .copyright-text{
+    margin-top: 20px;
+  }
+
+  .footer .copyright-text a{
+    color: #000;
+  }
