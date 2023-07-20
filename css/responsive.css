@@ -2,14 +2,7 @@
 @media (max-width: 992px){
 
     /* top navbar option tag width */
-    .top-menu.list-inline > li{
-        padding-right: 0px !important;
-        padding-left: 0px !important;
-    }
 
-    .top-header .topmenu > li > a{
-        padding: 0 4px;
-    }
 }
 
 
@@ -17,33 +10,11 @@
 /* Tablet devices  */
 @media (max-width: 768px){
 
-    /* topnav bar  */
+   
 
-    /* header number */
-    .top-header .contact-number {
-        text-align: center;
-        padding: 10px 0;
-    }
-
-    /* header logo */
-    .top-header .logo {
-        padding: 10px;
-    }
-
-    
-    /* header card  */
-    .top-header .top-menu {
-        text-align: center;
-        padding: 10px 0;
-    }
-
-
-    /* header navigation */
-
-    .navigation .menu-title {
-        display: inline-block;
-        padding-left: 10px;
-    }
+    .heroSliderArrow {
+        display: none !important;
+      }
 }
 
 
@@ -53,21 +24,6 @@
 
     /* Header To section start */
 
-    /* header number */
-    .top-header .contact-number {
-        text-align: center;
-    }
-
-    /* header logo */
-    .top-header .logo {
-        padding: 10px;
-    }
-      
-    .top-header .dropdown-menu {
-        right: 0;
-        left: 0;
-        max-width: 100%;
-    }
 }
 
 
