@@ -1229,3 +1229,16 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 .product-checkout-details .verified-icon img{
   width: 100%;
 }
+
+.shopping .product-list .table > tbody > tr > td{
+  vertical-align: middle;
+}
+
+.shopping .product-list .product-info > a{
+  margin-left: 10px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.shopping.cart .product-list .product-remove{
+  color: #c7254e;
+}
