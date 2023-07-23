@@ -24,6 +24,12 @@
 
     /* Header To section start */
 
+
+    .social-icon ul li {
+        margin-bottom: 5px;
+        margin-right: 5px;
+    }
+
 }
 
 
