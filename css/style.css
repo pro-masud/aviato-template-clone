@@ -1290,3 +1290,15 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   line-height: 18px;
   margin-top: 5px;
 }
+
+
+.success-msg .block i{
+  font-size: 40px;
+  background: #1bbb1b;
+  color: #fff;
+  width: 60px;
+  height: 60;
+  border-radius: 50%;
+  display: inline-block;
+  line-height: 60px;
+}
