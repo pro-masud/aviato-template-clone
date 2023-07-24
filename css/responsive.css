@@ -23,6 +23,11 @@
         font-size: 150px;
         line-height: 200px;
     }
+
+    /* coming down */
+    .coming-soon .block .count-down ul li {
+        font-size: 50px;
+    }
 }
 
 
@@ -43,8 +48,12 @@
     .page-404 h1 {
         font-size: 100px;
         line-height: 100px;
-      }
+    }
 
+    /* coming down */
+    .coming-soon .block .count-down ul li {
+        font-size: 50px;
+      }
 }
 
 

@@ -27,4 +27,24 @@ $('.hero-slider').slickAnimation();
 
 
 
+
+  // Count Down JS
+  $('#simple-timer').syotimer({
+    year: 2023,
+    month: 9,
+    day: 24,
+    hour: 20,
+    minute: 30
+  });
+
+
+
+  // video testimonial lightbox
+  $(document).on('click', '[data-toggle="lightbox"]', function (event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+  });
+
+
+
 })(jQuery);
