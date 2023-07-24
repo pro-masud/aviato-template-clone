@@ -53,6 +53,12 @@
     /* coming down */
     .coming-soon .block .count-down ul li {
         font-size: 50px;
+    }
+
+    /* login page styling */
+
+    .account .block form .btn-main, .account .block form .btn-solid-border, .account .block form .btn-transparent, .account .block form .btn-small {
+        padding: 14px 19px;
       }
 }
 

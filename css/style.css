@@ -1538,3 +1538,48 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   background: url(../images/backgrounds/bg-1.jpg);
   background-size: cover;
 }
+
+
+/* login page stying  */
+
+
+.account .block {
+  background-color: #fff;
+  border: 1px solid #dedede;
+  padding: 30px;
+  margin: 100px 0;
+}
+
+.account .block .logo {
+  display: inline-block;
+}
+
+.account .block a {
+  color: #000;
+}
+
+.account .block h2 {
+  font-weight: 400;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+
+.account .block form {
+  margin-top: 40px;
+}
+
+.account .block form p {
+  margin-bottom: 20px;
+}
+
+.account .block form input[type=email], 
+.account .block form input[type=password], 
+.account .block form input[type=text] 
+{
+  border-radius: 0;
+  box-shadow: none;
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+}
