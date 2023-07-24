@@ -28,6 +28,11 @@
     .coming-soon .block .count-down ul li {
         font-size: 50px;
     }
+
+    /* dashboard menu  */
+    .dashboard-menu li a {
+        padding: 10px 15px;
+    }
 }
 
 
@@ -59,7 +64,12 @@
 
     .account .block form .btn-main, .account .block form .btn-solid-border, .account .block form .btn-transparent, .account .block form .btn-small {
         padding: 14px 19px;
-      }
+    }
+
+    /* dashboard menu  */
+    .dashboard-menu li a {
+        padding: 10px 5px;
+    }
 }
 
 
