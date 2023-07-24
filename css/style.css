@@ -1623,3 +1623,26 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   width: 120px;
   border-radius: 100px;
 }
+
+
+/* profile details styling start */
+
+.dashboard-user-profile .user-img{
+  width: 180px;
+}
+
+.dashboard-user-profile .user-profile-list{
+  margin-top: 30px;
+  padding-left: 30px;
+}
+
+.dashboard-user-profile .user-profile-list li{
+  margin-bottom: 8px;
+}
+
+.dashboard-user-profile .user-profile-list li span {
+  font-weight: bold;
+  margin-right: 5px;
+  width: 100px;
+  display: inline-block;
+}
