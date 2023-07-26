@@ -2125,3 +2125,11 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 .post-comments .comment-button:hover {
   color: #000;
 }
+
+
+/* purchase-confirmation section start */
+
+.purchase-confirmation .purchase-confirmation-details {
+  padding: 20px;
+  border: 1px solid #dedede;
+}
