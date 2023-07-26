@@ -175,6 +175,13 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   font-size: 10px;
 }
 
+.post-excerpt p {
+  font-size: 16px;
+  color: #5e5e5e;
+  margin: 0 0 30px;
+  line-height: 30px;
+}
+
 .btn-round {
   border-radius: 4px;
 }
@@ -2139,4 +2146,37 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 
 .empty-cart .block i{
   font-size: 48px;
+}
+
+
+/* blog single styling */
+
+blockquote.quote-post{
+  line-height: 30px;
+  margin: 20px 0;
+  font-size: 16px;
+}
+
+.post .post-content p {
+  color: #444;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.post-social-share{
+  margin-bottom: 50px;
+}
+
+.post-sub-heading {
+  border-bottom: 1px solid #dedede;
+  padding-bottom: 20px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.post.post-single{
+  border: none;
 }
